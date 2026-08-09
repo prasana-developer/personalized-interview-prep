@@ -1,3 +1,8 @@
+Name:Prasanna Venkatachalapathy S
+Roll No:24AD1172
+Dept:ADS - B , 3rd - year
+
+
 # Personalized Interview Preparation System
 
 A full‑stack web application that helps job seekers prepare for interviews using **Agentic AI** (Google Gemini). Users can register, upload their resume, get an ATS score, see skill‑gap analysis, receive a personalized learning roadmap, and practice interview questions with AI feedback.

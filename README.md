@@ -4,6 +4,8 @@ Dept:ADS - B , 3rd - year
 
 # Video Download link
 https://github.com/prasana-developer/personalized-interview-prep/blob/99c201cdcc88b727ae6c3cdc4742aa46b97f8ace/workflow%20explanation.mp4
+
+https://github.com/prasana-developer/personalized-interview-prep/blob/main/System%20Architecture%20explanation%20(1)%20(1).mp4
 # Personalized Interview Preparation System
 
 A full‑stack web application that helps job seekers prepare for interviews using **Agentic AI** (Google Gemini). Users can register, upload their resume, get an ATS score, see skill‑gap analysis, receive a personalized learning roadmap, and practice interview questions with AI feedback.
